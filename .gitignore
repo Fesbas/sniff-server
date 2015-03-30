@@ -1,0 +1,4 @@
+# system stuff
+.idea/
+.vagrant/
+.DS_STORE/
